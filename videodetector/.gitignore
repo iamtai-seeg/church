@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+videodetector_report.csv
+*.csv
+models/
